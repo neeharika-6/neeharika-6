@@ -22,9 +22,7 @@
 
 ## 💻 **Tech Stack**
 **Languages & Tools:**  
-`Python` `R` `Bash` `SQL` `Linux`  
-`AutoDock` `Gromacs` `Nextflow` `HPC`  
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`  
+`Python` `R` `Bash` `SQL` `Linux` `AutoDock` `Gromacs` `Nextflow` `HPC` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`  
 
 ---
 
