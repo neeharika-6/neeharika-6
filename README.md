@@ -28,7 +28,6 @@
 
 ✍️ **Random Bioinformatics Quote:**  
 *"Data is the new microscope — look closely, and you’ll discover the unseen patterns of life."*
-👉 Replace YOUR_
 
 <!---
 neeharika-6/neeharika-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
